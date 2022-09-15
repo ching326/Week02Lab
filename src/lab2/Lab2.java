@@ -16,6 +16,7 @@ public class Lab2 {
      */
     public static void main(String[] args) {
         System.out.println ("This is lab2!");
+        System.out.println ("This is still lab2!");
     }
     
 }
